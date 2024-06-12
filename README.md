@@ -8,7 +8,7 @@ I am Abhinav Shakya, a BTech student at IIIT Bhagalpur. Motivated MERN stack dev
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinav106823)  
 1655 rating in CodeChef (3\*)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/abhinav_shakya)  
-Solved more than 500 problems on LeetCode
+Solved more than 500+ problems on LeetCode
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhinavshakya1608)
 
 # 💻 Tech Stack:
