@@ -1,13 +1,15 @@
 # 💫 About Me:
-I am Abhinav Shakya currently pursuing my B.Tech in CSE from IIIT Bhagalpur, Bihar<br>
+I am Abhinav Shakya, a BTech student at IIIT Bhagalpur. Motivated MERN stack developer and proficient in CPP. Passionate about web development, with a strong problem-solving mindset and a background in competitive coding. Eager to learn and stay updated on industry trends.
+<br>
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-shakya-7b0785228/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sentinelese_)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinav106823)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/abhinav_shakya)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinav106823)  
+1655 rating in CodeChef (3\*)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/abhinav_shakya)  
+Solved more than 500 problems on LeetCode
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhinavshakya1608)
-
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -24,6 +26,26 @@ I am Abhinav Shakya currently pursuing my B.Tech in CSE from IIIT Bhagalpur, Bih
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+# 📂 Projects:
+1. **VastuVilla**
+   - [GitHub Repository](https://github.com/Abhi1608nav/MERNRealEstateProject.git)
+   - [Live Demo](https://mern-estate-hiwu.onrender.com/)
+   
+2. **FilmBuff**
+   - [GitHub Repository](https://github.com/Abhi1608nav/FilmBuff.git)
+   - [Live Demo](https://film-buff.vercel.app/)
+   
+3. **WeatherApp**
+   - [GitHub Repository](https://github.com/Abhi1608nav/weatherProject.git)
+   - [Live Demo](https://weather-app21312.netlify.app/)
+
+# 🛠️ Design Problems:
+1. **ParkingLot (LLD problem)**
+   - [GitHub Repository](https://github.com/Abhi1608nav/DesignProblems1_ParkingLotSystem.git)
+   
+2. **ElevatorSystem (LLD problem)**
+   - [GitHub Repository](https://github.com/Abhi1608nav/DesignProblem2_ElevatorSystem.git)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhi1608nav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
