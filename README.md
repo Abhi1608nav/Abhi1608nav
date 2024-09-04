@@ -31,14 +31,17 @@ Solved more than 500+ problems on LeetCode
 
 # 📂 Projects:
 1. **VastuVilla**
-   - [GitHub Repository](https://github.com/Abhi1608nav/MERNRealEstateProject.git)
+   - [VastuVilla GitHub Repository](https://github.com/Abhi1608nav/MERNRealEstateProject.git)
    - [Live Demo](https://mern-estate-hiwu.onrender.com/)
    
 2. **FilmBuff**
-   - [GitHub Repository](https://github.com/Abhi1608nav/FilmBuff.git)
+   - [FilmBuff GitHub Repository](https://github.com/Abhi1608nav/FilmBuff.git)
    - [Live Demo](https://film-buff.vercel.app/)
+  
+3. **WhisperWave**
+   - [WIshperWave ChatApplication GitHub Repository](https://github.com/Abhi1608nav/ChatApplication/tree/master)
    
-3. **WeatherApp**
+4. **WeatherApp**
    - [GitHub Repository](https://github.com/Abhi1608nav/weatherProject.git)
    - [Live Demo](https://weather-app21312.netlify.app/)
 
