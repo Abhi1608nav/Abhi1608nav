@@ -42,7 +42,7 @@ Solved more than 500+ problems on LeetCode
    - [WIshperWave ChatApplication GitHub Repository](https://github.com/Abhi1608nav/ChatApplication/tree/master)
    
 4. **WeatherApp**
-   - [GitHub Repository](https://github.com/Abhi1608nav/weatherProject.git)
+   - [WeatherApp GitHub Repository](https://github.com/Abhi1608nav/weatherProject.git)
    - [Live Demo](https://weather-app21312.netlify.app/)
 
 # 🛠️ Design Problems:
